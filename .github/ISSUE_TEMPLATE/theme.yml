@@ -1,0 +1,46 @@
+name: テーマ提案
+description: DojoMeetingで他のDojoのメンバーと話したいことを投稿します
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: テーマのありがとうございます、過去に同じテーマがでているかどうかを気にせず
+  - type: textarea
+    id: theme
+    attributes:
+      label: どのようなことを話したいですか
+    validations:
+      required: true
+  - type: textarea
+    id: theme
+    attributes:
+      label: どのようなことを話したいですか
+    validations:
+      required: true
+  - type: textarea
+    id: dojo
+    attributes:
+      label: 参加・運営されているDojoを教えてください。
+      placeholder: 奈良（地域名だけでOKです）
+    validations:
+      required: true
+  - type: dropdown
+    id: role
+    attributes:
+      label: CoderDojoでの役割
+      options:
+        - ニンジャ
+        - 保護者
+        - メンター
+        - チャンピオン（運営者）
+        - その他
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: 確認
+      options:
+        - label: 個人を特定する情報などは含まれていません
+          required: true
+        - label: 特定の個人や組織を批判する内容ではありません
+          required: true          
