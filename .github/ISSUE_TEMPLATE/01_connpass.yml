@@ -30,3 +30,5 @@ body:
         - メンター
         - チャンピオン（運営者）
         - その他
+    validations:
+      required: true
