@@ -5,7 +5,8 @@ labels: ["theme"]
 body:
   - type: markdown
     attributes:
-      value: テーマのありがとうございます、過去に同じテーマがでているかどうかを気にせず入力してください
+      value: | 
+      テーマのありがとうございます、過去に同じテーマがでているれば、そちらにリアクションするだけでもOKです。お気軽にどうぞ。
   - type: textarea
     id: theme
     attributes:
@@ -16,7 +17,7 @@ body:
     id: dojo
     attributes:
       label: 参加・運営されているDojoを教えてください。
-      placeholder: 奈良（地域名だけでOKです）
+      placeholder: 奈良（地域名だけでOK、参加されていない方は「なし」と記入してください）
     validations:
       required: true
   - type: dropdown
