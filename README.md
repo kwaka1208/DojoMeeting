@@ -8,6 +8,8 @@ DojoMeetingは、CoderDojoに関心のある人たちが、気軽につながり
 
 話してみたい話題は、[GitHubのIssue](https://github.com/kwaka1208/DojoMeeting/issues/new/choose) で募集しています。
 
+今、挙がっている[話題はこちらにあります](https://github.com/kwaka1208/DojoMeeting/issues?q=is%3Aissue+state%3Aopen+label%3Atheme)。
+
 開催案内には [DojoMeeting - connpass](https://dojo-meeting.connpass.com/) も使えます。
 
 ```
