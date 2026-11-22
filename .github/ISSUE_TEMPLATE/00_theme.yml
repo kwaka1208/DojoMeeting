@@ -1,18 +1,24 @@
+
 name: テーマ提案
 description: DojoMeetingで他のDojoのメンバーと話したいことを投稿します
 title: "テーマ："
 labels: ["theme"]
+
 body:
   - type: markdown
     attributes:
-      value: | 
-      テーマのありがとうございます、過去に同じテーマがでているれば、そちらにリアクションするだけでもOKです。お気軽にどうぞ。
+      value: |
+        テーマの提案ありがとうございます。
+        過去に同じテーマが出ていれば、そちらにリアクションするだけでもOKです。
+        お気軽にどうぞ！
+
   - type: textarea
     id: theme
     attributes:
       label: どのようなことを話したいですか
     validations:
       required: true
+
   - type: textarea
     id: dojo
     attributes:
@@ -20,6 +26,7 @@ body:
       placeholder: 奈良（地域名だけでOK、参加されていない方は「なし」と記入してください）
     validations:
       required: true
+
   - type: dropdown
     id: role
     attributes:
@@ -30,6 +37,7 @@ body:
         - メンター
         - チャンピオン（運営者）
         - その他
+
   - type: checkboxes
     id: confirm
     attributes:
@@ -38,4 +46,4 @@ body:
         - label: 個人を特定する情報などは含まれていません
           required: true
         - label: 特定の個人や組織を批判する内容ではありません
-          required: true          
+          required: true
