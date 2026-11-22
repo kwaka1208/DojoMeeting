@@ -5,7 +5,7 @@ DojoMeetingは、地域のCoderDojoをもっと盛り上げるための情報交
 
 開催案内は、[DojoMeeting - connpass](https://dojo-meeting.connpass.com/) で
 
-テーマは、このリポジトリの[Issue](https://github.com/kwaka1208/DojoMeeting/issues)で募集しています。
+テーマは、このリポジトリの[Issue](https://github.com/kwaka1208/DojoMeeting/issues/new/choose)で募集しています。
 
 ## こんな方はぜひ！
 

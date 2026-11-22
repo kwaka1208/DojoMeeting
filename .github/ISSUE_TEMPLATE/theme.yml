@@ -1,11 +1,11 @@
 name: テーマ提案
 description: DojoMeetingで他のDojoのメンバーと話したいことを投稿します
-title: "[Bug] "
-labels: ["bug"]
+title: "テーマ："
+labels: ["theme"]
 body:
   - type: markdown
     attributes:
-      value: テーマのありがとうございます、過去に同じテーマがでているかどうかを気にせず
+      value: テーマのありがとうございます、過去に同じテーマがでているかどうかを気にせず入力してください
   - type: textarea
     id: theme
     attributes:
