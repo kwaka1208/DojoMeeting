@@ -13,12 +13,6 @@ body:
     validations:
       required: true
   - type: textarea
-    id: theme
-    attributes:
-      label: どのようなことを話したいですか
-    validations:
-      required: true
-  - type: textarea
     id: dojo
     attributes:
       label: 参加・運営されているDojoを教えてください。
