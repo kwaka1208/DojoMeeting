@@ -1,15 +1,15 @@
 
-name: テーマ提案
+name: こんなことを話したい
 description: DojoMeetingで他のDojoのメンバーと話したいことを投稿します
-title: "テーマ："
+title: "話題："
 labels: ["theme"]
 
 body:
   - type: markdown
     attributes:
       value: |
-        テーマの提案ありがとうございます。
-        過去に同じテーマが出ていれば、そちらにリアクションするだけでもOKです。
+        話題の提案ありがとうございます。
+        過去に同じ話題が出ていれば、そちらにリアクションするだけでもOKです。
         お気軽にどうぞ！
 
   - type: textarea
