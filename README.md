@@ -6,6 +6,10 @@ DojoMeetingは、CoderDojoに関心のある人たちが、気軽につながり
 
 地域のCoderDojoをもっと盛り上げるために、運営の悩みを相談したり、「こんなことをやってみたら良かったよ！」という事例を共有したり、新しいツールを紹介したり。CoderDojoにまつわることを自由に話し合いましょう。
 
+話してみたいテーマや取り上げてほしい話題は、[GitHubのIssue](https://github.com/kwaka1208/DojoMeeting/issues/new/choose) で募集しています。
+
+開催案内は [DojoMeeting - connpass](https://dojo-meeting.connpass.com/) でお知らせしています。
+
 **開催場所も、形式も自由です！**
 
 オンラインでもオフラインでも、カフェで集まっても、飲み会形式でもOK。決まったルールや形式はありません。誰でも、どこでも、気軽に開催できます。
@@ -32,8 +36,6 @@ DojoMeetingは、誰かが企画したイベントに参加するだけのもの
 
 このリポジトリの管理者に限らず、各地域のCoderDojoを運営している方も、このページを活用して、それぞれの地域でDojoMeetingを開催していただいて構いません。
 
-開催案内は [DojoMeeting - connpass](https://dojo-meeting.connpass.com/) で共有できます。
-
-話してみたいテーマや取り上げてほしい話題は、[GitHubのIssue](https://github.com/kwaka1208/DojoMeeting/issues/new/choose) で募集しています。
+開催告知、参加者募集用に [DojoMeeting - connpass](https://dojo-meeting.connpass.com/) を使っていただいて結構ですので、ご希望の方は、connpassのアカウントを[GitHubのIssue](https://github.com/kwaka1208/DojoMeeting/issues/new/choose)からお知らせください。
 
 **まずは気軽に集まって、話してみませんか？**

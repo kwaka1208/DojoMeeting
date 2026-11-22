@@ -1,0 +1,27 @@
+name: connpassを使いたい
+description: DojoMeetingのconnpassの利用を希望される方は、こちららからconnpassのアカウントをお知らせください
+title: "DojoMeetingのconnpassの利用希望"
+labels: ["connpass"]
+body:
+  - type: textarea
+    id: connpass
+    attributes:
+      label: connpassのアカウントを入力してください
+    validations:
+      required: true
+  - type: textarea
+    id: dojo
+    attributes:
+      label: 参加・運営されているDojoを教えてください。
+      placeholder: 奈良（地域名だけでOK）
+    validations:
+      required: true
+  - type: dropdown
+    id: role
+    attributes:
+      label: CoderDojoでの役割
+      options:
+        - ニンジャ
+        - 保護者
+        - メンター
+        - チャンピオン（運営者）
